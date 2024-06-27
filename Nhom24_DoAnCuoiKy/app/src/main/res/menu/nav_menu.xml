@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:title = "Home"
+        android:id="@+id/home"
+        android:icon="@drawable/home_icon"/>
+
+    <!--<item android:title="Category">
+        <menu>
+            <item
+                android:title = "Shirts"
+                android:id="@+id/shirt"
+                android:icon="@drawable/shirt"/>
+
+            <item
+                android:title = "Pants"
+                android:id="@+id/pant"
+                android:icon="@drawable/pant"/>
+
+            <item
+                android:title = "Shoe"
+                android:id="@+id/shoe"
+                android:icon="@drawable/shoe"/>
+
+            <item
+                android:title = "Other"
+                android:id="@+id/other"
+                android:icon="@drawable/other"/>
+        </menu>
+    </item>-->
+
+    <item android:title="Profile">
+        <menu>
+            <item
+                android:title = "Cart"
+                android:id="@+id/cart"
+                android:icon="@drawable/cart_icon"/>
+            <item
+                android:title = "Profile"
+                android:id="@+id/profile"
+                android:icon="@drawable/profile_icon"/>
+
+            <item
+                android:title = "Order History"
+                android:id="@+id/history"
+                android:icon="@drawable/icon_history"/>
+
+            <item
+                android:title = "Logout"
+                android:id="@+id/logout"
+                android:icon="@drawable/logout_icon"/>
+        </menu>
+    </item>
+
+</menu>
