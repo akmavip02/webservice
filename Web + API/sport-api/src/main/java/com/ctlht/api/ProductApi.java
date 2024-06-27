@@ -1,0 +1,60 @@
+package com.ctlht.api;
+
+import com.ctlht.constant.web.KeyParamsUrlConstant;
+import com.ctlht.model.request.ProductRequest;
+import com.ctlht.model.request.ProductSizeRequest;
+import com.ctlht.model.response.ProductResponse;
+import com.ctlht.model.response.ProductSizeResponse;
+import com.ctlht.service.ProductService;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.*;
+
+import java.util.List;
+import java.util.Map;
+
+@RestController
+@RequestMapping("/api")
+public class ProductApi {
+
+    @Autowired
+    ProductService productService;
+
+    @GetMapping("/products")
+    public List<ProductResponse> productsByParams(@RequestParam(required = false) Map<String, String> params) {
+        List<ProductResponse> productResponseList = productService.findProductsByParams(params);
+        return productResponseList;
+    }
+
+    @GetMapping("/top3-products")
+    public List<ProductResponse> getTop3Products() {
+        List<ProductResponse> productResponseList = productService.findTop3ByTop3LatestId();
+        return productResponseList;
+    }
+
+    @GetMapping("/product")
+    public ProductResponse getProduct(@RequestParam(name = KeyParamsUrlConstant.ID_PRODUCT) Long id) {
+        ProductResponse productResponse = productService.findById(id);
+        return productResponse;
+    }
+
+    @PostMapping("/product")
+    public ProductSizeResponse insertProduct(@RequestBody ProductSizeRequest productSizeRequest) {
+        return productService.insertOrUpdate(productSizeRequest);
+    }
+
+    @PutMapping("/product")
+    public ProductSizeResponse updateProduct(@RequestBody ProductSizeRequest productSizeRequest) {
+        return productService.insertOrUpdate(productSizeRequest);
+    }
+
+    @DeleteMapping("/product/{id}")
+    public void deleteProduct(@PathVariable Long id) {
+        productService.deleteById(id);
+        System.out.println("xóa " + id);
+    }
+
+    @GetMapping("/product/count")
+    public long count() {
+        return productService.count();
+    }
+}

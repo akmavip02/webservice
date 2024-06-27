@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="clothing:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="505c7e63-74c1-4f17-93a4-6eae8de8d746" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/config/CORSFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/constant/SystemConstant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/laptrinhjavaweb/constant/SystemConstant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/admin/img-sanpham/banan.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/admin/img-sanpham/cera.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/admin/img-sanpham/dolas.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/admin/img-sanpham/ghethera.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/admin/img-sanpham/jimmy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/admin/img-sanpham/kara.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/admin/images/kara.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/admin/img-sanpham/lucy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/admin/img-sanpham/matda.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/admin/img-sanpham/reno.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/admin/img-sanpham/tare.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/admin/img-sanpham/theresa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/admin/img-sanpham/thomas.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/admin/img-sanpham/tu.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/admin/img-sanpham/vegas.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/admin/img-sanpham/vita.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/admin/img-sanpham/zuno.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/account/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/account/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/admin/home.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/admin/home.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/admin/order/orders.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/admin/order/orders.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/admin/product/products.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/admin/product/products.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/admin/user/users.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/admin/user/users.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/common/admin/footer.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/common/admin/footer.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/common/admin/navbar.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/common/admin/navbar.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="2QHbU7NT42BtnI45dWSaRVJjw3R" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1652802876778" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../sport-api" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.idesettings.emmet.jsx" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\VTD\Downloads\Web + API\sport-client-web\src\main\resources\static\admin\images" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.laptrinhjavaweb.model.response" />
+      <recent name="com.laptrinhjavaweb.model.page" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\learn\ptit_subjects\PTUDCCTBDD\cuoiki\website-ban-quan-ao-spring-boot-main\src\main\resources\static\image\product" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 8.5.34">
+    <configuration name="ClothingApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="clothing" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.laptrinhjavaweb.ClothingApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TomeeConfiguration" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_clothing" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="57089" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 8.5.34" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.34" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8081/" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="clothing:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_clothing_2" />
+        <option name="HTTP_PORT" value="8081" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="57112" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="clothing:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.ClothingApplication" />
+      <item itemvalue="Tomcat Server.Tomcat 8.5.34" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="505c7e63-74c1-4f17-93a4-6eae8de8d746" name="Default Changelist" comment="" />
+      <created>1652699013972</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652699013972</updated>
+      <workItem from="1652699021520" duration="22800000" />
+      <workItem from="1652773063815" duration="25654000" />
+      <workItem from="1652804320195" duration="611000" />
+      <workItem from="1652805284458" duration="1102000" />
+      <workItem from="1652855537866" duration="1018000" />
+      <workItem from="1652857086135" duration="622000" />
+      <workItem from="1652873949051" duration="26000" />
+      <workItem from="1652885457116" duration="1678000" />
+      <workItem from="1652888341881" duration="19000" />
+      <workItem from="1685013468238" duration="781000" />
+      <workItem from="1685014599536" duration="1281000" />
+      <workItem from="1685275037150" duration="33000" />
+      <workItem from="1685275347862" duration="3497000" />
+      <workItem from="1685283401266" duration="2502000" />
+      <workItem from="1685286928078" duration="5955000" />
+      <workItem from="1685339636919" duration="5631000" />
+      <workItem from="1685362145035" duration="5810000" />
+      <workItem from="1685413739531" duration="2758000" />
+      <workItem from="1685428374486" duration="854000" />
+      <workItem from="1685429787689" duration="2300000" />
+      <workItem from="1685870744698" duration="3496000" />
+      <workItem from="1685875699486" duration="269000" />
+      <workItem from="1685950323890" duration="654000" />
+      <workItem from="1686043831749" duration="1869000" />
+      <workItem from="1686047115130" duration="1826000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="654" y="275" key="#Notifications" timestamp="1685281307520">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="654" y="275" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1685281307520" />
+    <state x="465" y="0" width="619" height="824" key="#Tomcat_8.5.34" timestamp="1685013570344">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="0" width="619" height="824" key="#Tomcat_8.5.34/0.0.1536.824@0.0.1536.824" timestamp="1685013570344" />
+    <state x="554" y="291" key="#Tomcat_Server" timestamp="1685013564344">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="554" y="291" key="#Tomcat_Server/0.0.1536.824@0.0.1536.824" timestamp="1685013564344" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1685280780496">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1685280780496" />
+    <state x="574" y="119" key="#com.intellij.ide.util.MemberChooser" timestamp="1685369765054">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="119" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1685369765054" />
+    <state x="555" y="154" key="FileChooserDialogImpl" timestamp="1685275434883">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="555" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1685275434883" />
+    <state width="1280" height="322" key="GridCell.Tab.0.bottom" timestamp="1686050322723">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1280" height="322" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1686050322723" />
+    <state width="1280" height="322" key="GridCell.Tab.0.center" timestamp="1686050322723">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1280" height="322" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1686050322723" />
+    <state width="1280" height="322" key="GridCell.Tab.0.left" timestamp="1686050322723">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1280" height="322" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1686050322723" />
+    <state width="1280" height="322" key="GridCell.Tab.0.right" timestamp="1686050322723">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1280" height="322" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1686050322723" />
+    <state width="1280" height="322" key="GridCell.Tab.1.bottom" timestamp="1686050322724">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1280" height="322" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1686050322724" />
+    <state width="1280" height="322" key="GridCell.Tab.1.center" timestamp="1686050322723">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1280" height="322" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1686050322723" />
+    <state width="1280" height="322" key="GridCell.Tab.1.left" timestamp="1686050322723">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1280" height="322" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1686050322723" />
+    <state width="1280" height="322" key="GridCell.Tab.1.right" timestamp="1686050322723">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1280" height="322" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1686050322723" />
+    <state width="1280" height="322" key="GridCell.Tab.2.bottom" timestamp="1686050322724">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1280" height="322" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1686050322724" />
+    <state width="1280" height="322" key="GridCell.Tab.2.center" timestamp="1686050322724">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1280" height="322" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1686050322724" />
+    <state width="1280" height="322" key="GridCell.Tab.2.left" timestamp="1686050322724">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1280" height="322" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1686050322724" />
+    <state width="1280" height="322" key="GridCell.Tab.2.right" timestamp="1686050322724">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1280" height="322" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1686050322724" />
+    <state width="1280" height="198" key="GridCell.Tab.3.bottom" timestamp="1685281255521">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1280" height="198" key="GridCell.Tab.3.bottom/0.0.1536.824@0.0.1536.824" timestamp="1685281255521" />
+    <state width="1280" height="198" key="GridCell.Tab.3.center" timestamp="1685281255521">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1280" height="198" key="GridCell.Tab.3.center/0.0.1536.824@0.0.1536.824" timestamp="1685281255521" />
+    <state width="1280" height="198" key="GridCell.Tab.3.left" timestamp="1685281255521">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1280" height="198" key="GridCell.Tab.3.left/0.0.1536.824@0.0.1536.824" timestamp="1685281255521" />
+    <state width="1280" height="198" key="GridCell.Tab.3.right" timestamp="1685281255521">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1280" height="198" key="GridCell.Tab.3.right/0.0.1536.824@0.0.1536.824" timestamp="1685281255521" />
+    <state x="510" y="115" key="RollbackChangesDialog" timestamp="1685366643018">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="510" y="115" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1685366643018" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1685275395645">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1685275395645" />
+    <state x="478" y="145" width="579" height="534" key="find.popup" timestamp="1685875878915">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="478" y="145" width="579" height="534" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1685875878915" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

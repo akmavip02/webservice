@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: VTD
+Build-Jdk: 1.8.0_201
+Implementation-Title: clothing
+Implementation-Version: 1.0
+Implementation-Vendor-Id: com.laptrinhjavaweb
+Main-Class: ${start-class}
+
